@@ -4,7 +4,7 @@ const urlsToCache = [
     '/hamal/index.html',
     '/hamal/manifest.json',
     'https://i.ibb.co/mVDd3y4g/maskable-icon-x192.png',
-    'https://i.ibb.co/dJp5Lj9K/maskable-icon-x512.png'
+    'https://i.ibb.co/dJp5Lj9K/maskable-icon-x512.png',
 ];
 
 self.addEventListener('install', event => {
