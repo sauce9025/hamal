@@ -1,4 +1,4 @@
-const CACHE_NAME = 'acidrain-game-v1';
+const CACHE_NAME = 'acidrain-game-v2';
 const urlsToCache = [
     '/hamal/',
     '/hamal/index.html',
